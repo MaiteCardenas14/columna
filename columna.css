@@ -1,0 +1,16 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .columna {
+    flex-basis: 33.33%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
